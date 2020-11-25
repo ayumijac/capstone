@@ -7,3 +7,4 @@ The version capstone 3.0 is the final version!~~~
 -------------------------------------------------------------------
 The "deploy" file is the environment instruction!!!~~~~~
 -------------------------------------------------------------------
+after deployed, if you wanna sign in, plz read the user
